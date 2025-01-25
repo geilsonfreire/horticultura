@@ -1,6 +1,6 @@
-# Front-End Loja Floricultura
+# Front-End Loja Hortcultura
 
-Bem-vindo ao projeto Front-End Loja Floricultura! Este projeto é uma aplicação web desenvolvida para uma loja de floricultura, onde os usuários podem visualizar e comprar diversos produtos como suculentas, cactos, adubos e terras.
+Bem-vindo ao projeto Front-End Loja Horticultura! Este projeto é uma aplicação web desenvolvida para uma loja de floricultura, onde os usuários podem visualizar e comprar diversos produtos como suculentas, cactos, adubos e terras.
 
 ## Funcionalidades
 
