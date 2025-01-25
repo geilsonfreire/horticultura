@@ -79,32 +79,29 @@ vite.config.js
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Front-End_LojaFlorecultura.git
+   git clone https://github.com/geilsonfreire/horticultura.git
    ```
 
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd Front-End_LojaFlorecultura
-   ```
-
-3. Instale as dependências:
+2. Instale as dependências:
    ```bash
    npm install
    ```
 
-4. Inicie o servidor:
+3. Inicie o servidor:
    ```bash
-   npm start
+   npm run dev
+   ```
+   ```bash
+   node server.js
    ```
 
-5. Acesse a aplicação no navegador:
+4. Acesse a aplicação no web:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
-## Contato
+5. Acesse servidor local:
+   ```
+   http://localhost:5000
+   ```
 
-Para mais informações, entre em contato pelo WhatsApp clicando no ícone na página do carrinho de compras.
-
----
-````
