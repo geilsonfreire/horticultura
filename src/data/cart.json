@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Caixa Suculentas Sortidas",
+    "description": "Excelente para decoração",
+    "price": "48.00",
+    "image": "src/assets/img/Products/1737737643601-119216603.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "caixa com 8 suculentas ",
+    "quantity": 2
+  },
+  {
+    "id": "2",
+    "name": "Caixa Suculentas Premium",
+    "description": "Ideal para decorações de jardim!",
+    "price": "69.00",
+    "image": "src/assets/img/Products/1737738110619-3605193.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "caixa com 8 suculentas ",
+    "quantity": 1
+  }
+]

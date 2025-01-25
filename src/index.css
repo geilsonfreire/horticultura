@@ -1,0 +1,23 @@
+/* Importando a fonte Flora */
+@import url('https://fonts.googleapis.com/css2?family=Flora&display=swap');
+
+
+/* Importando o arquivo de configuração do TailwindCSS */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Removendo a barra de rolagem do navegador */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Aplicando a fonte Flora ao corpo do documento */
+body {
+  font-family: 'Flora', sans-serif;
+}

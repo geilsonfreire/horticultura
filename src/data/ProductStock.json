@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1",
+    "name": "Caixa Suculentas Sortidas",
+    "description": "Excelente para decoração",
+    "price": "48.00",
+    "image": "src/assets/img/Products/1737737643601-119216603.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "caixa com 8 suculentas "
+  },
+  {
+    "id": "2",
+    "name": "Caixa Suculentas Premium",
+    "description": "Ideal para decorações de jardim!",
+    "price": "69.00",
+    "image": "src/assets/img/Products/1737738110619-3605193.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "caixa com 8 suculentas "
+  },
+  {
+    "id": "3",
+    "name": "Zamioculca Preta",
+    "description": "Uma Raridade da natureza!",
+    "price": "12.00",
+    "image": "src/assets/img/Products/1737760287725-706774208.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "Pote 11"
+  },
+  {
+    "id": "4",
+    "name": "Zamioculca Preta",
+    "description": "Uma Raridade da natureza!",
+    "price": "49.00",
+    "image": "src/assets/img/Products/1737760591564-701425339.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "Pote 18"
+  },
+  {
+    "id": "5",
+    "name": "Agave Victória Reginae",
+    "description": "Uma Raridade da natureza!",
+    "price": "18.00",
+    "image": "src/assets/img/Products/1737760881359-802854769.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "Cunha 21"
+  },
+  {
+    "id": "6",
+    "name": "Euphorbia Francoisi",
+    "description": "Muito linda ",
+    "price": "79.00",
+    "image": "src/assets/img/Products/1737767392591-307484890.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "Pote 12"
+  },
+  {
+    "id": "7",
+    "name": "Pachypodium Horombense",
+    "description": "Muito linda ",
+    "price": "32.00",
+    "image": "src/assets/img/Products/1737767536644-845907062.PNG",
+    "category": "Suculentas",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "Pote 20"
+  },
+  {
+    "id": "8",
+    "name": "Melocactus Bahiensis - Coroa de Frade",
+    "description": "Muito linda ",
+    "price": "15.00",
+    "image": "src/assets/img/Products/1737767604722-328032586.PNG",
+    "category": "Cactos",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "Pote 15"
+  },
+  {
+    "id": "9",
+    "name": "Echinocactus Grusonii - Poltrona-de-sogra",
+    "description": "Muito linda ",
+    "price": "18",
+    "image": "src/assets/img/Products/1737767657108-669835344.PNG",
+    "category": "Cactos",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "Pote 17"
+  },
+  {
+    "id": "10",
+    "name": "Substrato Linha Terra",
+    "description": "Exelente para alguma coisa",
+    "price": "5",
+    "image": "src/assets/img/Products/1737767768936-176795344.PNG",
+    "category": "Terras",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "4 Litros"
+  },
+  {
+    "id": "11",
+    "name": "Substrato Linha Terra",
+    "description": "Exelente para alguma coisa",
+    "price": "12.00",
+    "image": "src/assets/img/Products/1737767810639-707809591.PNG",
+    "category": "Terras",
+    "stock": "30",
+    "status": "Disponível",
+    "quantidade": "8 Litros"
+  }
+]
